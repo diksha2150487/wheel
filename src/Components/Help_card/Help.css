@@ -1,0 +1,66 @@
+.help_body_inner_div {
+  background-image: linear-gradient(184.78deg, #fa709a 7.64%, #fee140 120.07%);
+  margin: 10vw;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  display: flex;
+  flex-direction: row;
+  /* color: aliceblue; */
+  margin-bottom: 5vw;
+}
+
+.help_left_card {
+  margin: 5vw;
+
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+.help {
+  font-size: 38px;
+  font-weight: bold;
+  max-width: 70%;
+  color: white;
+}
+.h_button {
+  width: 200px;
+  height: 50px;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #202020;
+
+  border: 0px;
+  border-radius: 35px;
+  /* background-color: aliceblue; */
+  margin-top: 2vw;
+}
+.help_right_card {
+  margin: 5vw;
+}
+.help_right_card > p {
+  font-size: 18px;
+  max-width: 70%;
+  color: white;
+  line-height: 25px;
+  font-family: "Poppins", sans-serif;
+}
+@media (max-width: 768px) {
+  .help_body_inner_div {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 5vw;
+  }
+
+  .help_left_card {
+    margin: 5vw;
+    font-size: 36px;
+  }
+
+  .help_right_card {
+    margin: 5vw;
+    font-size: 16px;
+  }
+}

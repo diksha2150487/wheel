@@ -1,0 +1,18 @@
+.page{
+  background-color: whitesmoke;
+}
+.highlight_cards{
+    margin-left:8vw;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items:center;
+
+}
+@media (max-width: 768px) {
+    .highlight_cards{
+     justify-content: center;
+     margin-left:1vw;
+    }
+
+}

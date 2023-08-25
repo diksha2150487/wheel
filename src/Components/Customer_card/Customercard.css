@@ -1,0 +1,142 @@
+.container-6-front-text {
+  margin-top: 2rem;
+  display: flex;
+  padding: 30px 120px;
+}
+.noble {
+  display: flex;
+  justify-content: space-between;
+}
+.klyoe {
+  width: 50%;
+}
+
+.canny-box-desgining {
+  width: 50%;
+  margin-left: 18rem;
+}
+
+.dolop {
+  color: black;
+  font-size: 40px;
+  font-family: "PT Serif", serif;
+  font-weight: 600;
+  letter-spacing: 0.58px;
+  text-align: left;
+  line-height: 50px;
+}
+
+.parrot {
+  font-size: 38px;
+  color: black;
+  font-family: "PT Serif", serif;
+  font-weight: 600;
+  text-align: left;
+}
+
+.yolpou {
+  color: #33475b;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  line-height: 30px;
+  text-align: left;
+}
+
+.sim {
+  color: #33475b;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  line-height: 30px;
+  text-align: left;
+  max-width: 90%;
+}
+/* *********************************************** */
+.container-7-card-part {
+  margin-top: 3rem;
+  /* background-color: aqua; */
+  padding-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-card-srction-front {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 50px;
+  display: flex;
+  gap: 25px;
+}
+.first-card-henery {
+  max-width: 350px;
+  background-color: white;
+  /* padding: 60px 20px; */
+  padding-bottom: 60px;
+  border-radius: 10px;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.men {
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  margin-top: -35px;
+  /* position: absolute; */
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #ff9966;
+}
+.white-plio {
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  margin-top: -35px;
+  /* position: absolute; */
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #ff9966;
+}
+.richards {
+  padding-top: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: #202020;
+  font-family: "PT Serif", serif;
+}
+.natural {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  color: black;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.phone-text {
+  font-size: 17px;
+  color: #9e9c9c;
+  line-height: 22px;
+  text-align: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+.star-all {
+  padding-top: 20px;
+  display: flex;
+  font-size: 30px;
+  gap: 5px;
+  color: goldenrod;
+}
+#dark-icon {
+  color: #9e9c9c;
+}
+#dark-icon:hover {
+  color: #ff9966;
+}
+.star-all:hover {
+  color: #ff9966;
+}

@@ -1,0 +1,40 @@
+
+
+.card {
+    width: 220px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align:start;
+    padding: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin:3px;
+  }
+
+
+  .card-content {
+    margin-top: 20px;
+  }
+
+  .card-name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .card-occupation {
+    font-size: 14px;
+    color: #666;
+  }
+
+  .card-description {
+    font-size: 14px;
+    color:gray;
+    margin-top: 10px;
+  }
+  .rating_stars{
+    color:orange
+  }
+
+
+
+  
