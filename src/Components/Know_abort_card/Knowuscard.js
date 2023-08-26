@@ -43,7 +43,6 @@ export default function Knowuscard() {
         </div>
       </div>
       {/* *************************************************************************** */}
-
       <div className="collab_card_inner_div">
         <div className="collab_left_card">
           <img src={collab} className="collab_img" alt="logo" />

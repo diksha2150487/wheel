@@ -65,16 +65,16 @@ export default function Footer() {
           </div>
           <div className="col">
             <h3 className="social">Quick Links</h3>
-            <p>Home</p>
-            <p>Services</p>
-            <p>About Us</p>
-            <p>Contact Us</p>
+            <p className="zip">Home</p>
+            <p className="points">Services</p>
+            <p className="points">About Us</p>
+            <p className="points">Contact Us</p>
           </div>
           <div className="col">
             <h3 className="social">Location & Contact</h3>
-            <p>ITPL Road</p>
-            <p>Whitefield.Bangalore</p>
-            <p>Karanataka,PIN 560066 ,India</p>
+            <p className="zip">ITPL Road</p>
+            <p className="map">Whitefield.Bangalore</p>
+            <p className="map"> Karanataka,PIN 560066 ,India</p>
           </div>
         </div>
         <hr></hr>

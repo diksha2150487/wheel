@@ -24,13 +24,15 @@
   margin: 1rem;
   margin-left: 30px;
   margin-top: -40px;
-  color: #9e9c9c;
+  font-size: 17px;
+  color: #33475b;
+  font-family: "Poppins", sans-serif;
 }
 .but1 {
   margin-left: 40px;
 }
 .p2 p {
-  line-height: 5px;
+  line-height: 22px;
 }
 @media (max-width: 768px) {
   .main_card_inner_div {
@@ -79,7 +81,7 @@
   font-weight: 600;
   letter-spacing: 0.58px;
   text-align: left;
-  line-height: 25px;
+  line-height: 27px;
 }
 .wow {
   font-size: 38px;
@@ -90,16 +92,16 @@
 }
 .milzo {
   color: #33475b;
-  font-size: 18px;
+  font-size: 16px;
   font-family: "Poppins", sans-serif;
-  line-height: 0px;
+  line-height: 22px;
   text-align: left;
 }
 .dilo {
   color: #33475b;
-  font-size: 18px;
+  font-size: 16px;
   font-family: "Poppins", sans-serif;
-  line-height: 28px;
+  line-height: 22px;
   text-align: left;
   max-width: 90%;
 }
